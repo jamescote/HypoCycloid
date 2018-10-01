@@ -1,5 +1,5 @@
 Compiling on Windows:
-Compiled using MSVS 2015.  Will add one for 2013 as well in the future.  
+Compiled using MSVS 2015.
 You'll need to set up OpenGL, GLEW, and trimesh.lib in the settings of the solution as required libraries.
 
 Compiling on Linux:
@@ -10,7 +10,7 @@ HypoCycloid Commands:
 'A' - increases the radius of the Small circle by 0.1 units
 'Z' - Decreases the radius of the Small circle by 0.1 units
 'S' - Increases the radius of the Big Circle by 0.1 units
-'X' - Decreases the radius of the Small Circle by 0.1 units
+'X' - Decreases the radius of the Big Circle by 0.1 units
 'D' - Increases the Number of Cycles by 1
 'C' - Decreases the Number of Cycles by 1. Min = 1
 'SPACE' - Pauses/Resumes Animation of HypoCycloid
